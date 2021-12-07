@@ -103,8 +103,8 @@ transition: all 0.5s ease-out;
   background-color: #fff;
   padding:  0px 0px 0px 0px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.4s ease-out;
@@ -124,8 +124,8 @@ transition: all 0.5s ease-out;
   background-color: #fff;
   padding:  0px 0px 0px 0px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.4s ease-out;
@@ -145,8 +145,8 @@ transition: all 0.5s ease-out;
   background-color: #fff;
   padding:  0px 0px 0px 0px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.5s ease-out;
@@ -166,8 +166,8 @@ transition: all 0.5s ease-out;
   background-color:  #fff;
   padding:  0px 0px 0px 0px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.5s ease-out;
@@ -187,8 +187,8 @@ transition: all 0.5s ease-out;
   background-color: #C1C1C0;
   padding:  24px 24px 360px 24px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.5s ease-out;
@@ -207,8 +207,8 @@ transition: all 0.5s ease-out;
   background-color: #C1C1C0;
   padding:  24px 24px 360px 24px;
   margin: 8px;
-  width: 600px;
-  flex-basis: 600px;
+  width: 800px;
+  flex-basis: 800px;
   flex-grow: 1;
 
   -webkit-transition: all 0.5s ease-out;
@@ -225,7 +225,7 @@ transition: all 0.5s ease-out;
   height: 1px;
   margin: 8px;
   background-color: none;
-  flex-basis: 600px;
+  flex-basis: 800px;
   flex-grow: 1;
 }
 
