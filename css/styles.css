@@ -9,7 +9,7 @@
 /* Basics */
 body {
   font-family: 'Helvetica';
-  margin: 120px 0px;
+  margin: 0px;
   padding: 0px;
     font-size: 14px;
 
@@ -21,7 +21,6 @@ header {
   width: 100%;
   border-bottom: 0px solid #000;
   position: fixed;
-    margin: 120px 0px;
 }
 
 .navigation-wrapper ul {
