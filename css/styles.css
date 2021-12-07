@@ -9,18 +9,19 @@
 /* Basics */
 body {
   font-family: 'Helvetica';
-  margin: 0px;
+  margin: 120px 0px;
   padding: 0px;
     font-size: 14px;
-  width: 1400px;
+
 }
 
 /* Header */
 header {
   background-color: ;/* Transparent */
-  width: 1400px;
+  width: 100%;
   border-bottom: 0px solid #000;
   position: fixed;
+    margin: 120px 0px;
 }
 
 .navigation-wrapper ul {
