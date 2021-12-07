@@ -100,8 +100,8 @@ transition: all 0.5s ease-out;
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color: #fff;
-  padding:  0px 0px 0px 0px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -111,18 +111,18 @@ transition: all 0.5s ease-out;
   transition: all 0.4s ease-out;
 }
 
-.project-1:hover, .project-1:focus {
+.project-1:hover, .project-1:active, .project-1:focus {
   color: white;
   background-color: #48755a;
-    padding:  24px 24px 360px 24px;
+
 }
 
 .project-2 {
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color: #fff;
-  padding:  0px 0px 0px 0px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -135,15 +135,15 @@ transition: all 0.5s ease-out;
 .project-2:hover, .project-2:active, .project-2:focus {
   color: white;
   background-color: #253444;
-    padding:  24px 24px 360px 24px;
+
 }
 
 .project-3 {
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color: #fff;
-  padding:  0px 0px 0px 0px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -156,15 +156,15 @@ transition: all 0.5s ease-out;
 .project-3:hover, .project-3:active, .project-3:focus {
   color: white;
   background-color: #FF9B59;
-    padding:  24px 24px 360px 24px;
+
 }
 
 .project-4 {
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color:  #fff;
-  padding:  0px 0px 0px 0px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -177,15 +177,14 @@ transition: all 0.5s ease-out;
 .project-4:hover, .project-4:active, .project-4:focus {
   color: black;
   background-color:#A6FFFF;
-  padding:  24px 24px 360px 24px;
 }
 
 .project-5 {
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color: #C1C1C0;
-  padding:  24px 24px 360px 24px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -204,8 +203,8 @@ transition: all 0.5s ease-out;
   display: inline-block;
   text-decoration: none;
   color: black;
-  background-color: #C1C1C0;
-  padding:  24px 24px 360px 24px;
+  background-color: #f5f5f5;
+  padding:  16px 16px 360px 16px;
   margin: 8px;
   width: 600px;
   flex-basis: 600px;
@@ -225,7 +224,7 @@ transition: all 0.5s ease-out;
   height: 1px;
   margin: 8px;
   background-color: none;
-  flex-basis: 600px;
+  flex-basis: 500px;
   flex-grow: 1;
 }
 
